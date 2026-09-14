@@ -1,0 +1,5 @@
+name: astrbot_plugin_ticketmaker2
+author: 捞化
+version: 2.0.0
+description: 本地 PIL 重绘生成报销凭证图片（完全离线，不依赖第三方网站与浏览器，功能对齐 1 代）
+dependencies: []
